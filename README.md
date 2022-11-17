@@ -1,3 +1,2 @@
 # Tozin
-Tozin in Delphi
-Weighing Scale Softwares
+Weighing Scale Software in Delphi
